@@ -1,5 +1,5 @@
 production: 
-  rails: 
+  docker: 
     servers:
       - server:
           unique_name: rails1
